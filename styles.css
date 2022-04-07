@@ -117,25 +117,25 @@ body {
     }
 
     .hero__section {
-        height: 695px;
-        width: 450px;
+        height: 43.4375rem;
+        width: 28.125rem;
     }
     .hero__image {
-        height: 220px;
-        width: 450px;
+        height: 13.75rem;
+        width: 28.125rem;
     }
 
     .hero__head {
-        margin-top: 52px;
+        margin-top: 3.25rem;
     }
     
     .hero__para {
-        margin: 0rem 75px;
+        margin: 0rem 4.6875rem;
     }
 
     .hero__btn {
-        width: 352px;
-        height: 48px;
+        width: 22rem;
+        height: 3rem;
     }
     
 }
